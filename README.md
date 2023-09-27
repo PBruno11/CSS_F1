@@ -1,6 +1,44 @@
 # CSS_F1
 
-# README - Explicación de Propiedades CSS
+## Tarea 
+  Crea un archivo CSS llamado "style.css".
+
+  Utiliza el archivo HTML proporcionado como base para tu tarea. La estructura HTML debe contener al menos un encabezado (<header>), una barra de navegación (<nav>), secciones de contenido (<section>), y un pie de página (<footer>).
+
+  Aplica estilos al encabezado (<header>):
+
+  Fondo de color: Elige un color de fondo que te parezca atractivo.
+  Texto: Asegúrate de que el texto en el encabezado sea legible y tenga un color que contraste con el fondo.
+  Alineación del texto: Centra el contenido del encabezado.
+  Espaciado interno: Agrega espacio de relleno alrededor del encabezado.
+  Aplica estilos a la barra de navegación (<nav>):
+
+  Elimina los marcadores de lista.
+  Alinea los elementos de navegación en línea uno al lado del otro.
+  Agrega un margen derecho entre los elementos de navegación para separarlos.
+  Aplica estilos a los enlaces de navegación (<a>) dentro de la barra de navegación:
+
+  Elimina la decoración de subrayado de los enlaces.
+  Cambia el color del texto de los enlaces.
+  Opcional: Modifica la fuente o el tamaño del texto de los enlaces para hacerlos más destacados.
+  Aplica estilos al contenido principal (<main>):
+
+  Agrega espacio de relleno alrededor del contenido principal para separarlo del encabezado y el pie de página.
+  Aplica estilos a las secciones de contenido (<section>):
+
+  Agrega un margen inferior entre las secciones para separarlas visualmente.
+  Aplica estilos al pie de página (<footer>):
+
+  Fondo de color: Elige un color de fondo para el pie de página.
+  Texto: Asegúrate de que el texto en el pie de página sea legible y tenga un color que contraste con el fondo.
+  Alineación del texto: Centra el contenido del pie de página.
+  Espaciado interno: Agrega espacio de relleno alrededor del pie de página.
+  Guarda tu archivo CSS y vincúlalo al archivo HTML.
+  
+  Visualiza tu página web en un navegador para asegurarte de que los estilos se apliquen correctamente.
+
+
+# Explicación de Propiedades CSS utilizadas en el ejemplo de clase
 
 Este archivo README proporciona una descripción de las propiedades CSS utilizadas en el archivo "style.css" para dar estilo a una página web sobre la Fórmula 1.
 
